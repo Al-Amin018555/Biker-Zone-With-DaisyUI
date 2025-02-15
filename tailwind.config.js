@@ -5,11 +5,7 @@ module.exports = {
       "./components/**/*.{js,ts,jsx,tsx}",
     ],
     theme: {
-      extend: {
-        colors:{
-            'bike-primary':'#E76F51',         
-        },
-      },
+      extend: {},
     },
     plugins: [],
   }
